@@ -12,6 +12,7 @@ O projeto ficou com esse design. Clique no link e aproveite.
 
 ### Projeto 3
 
+https://marcosvpapa.github.io/web_project_3_ptbr/
 
 ### Link do projeto no Figma
 
