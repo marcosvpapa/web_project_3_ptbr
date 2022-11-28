@@ -1,0 +1,49 @@
+/* ----------normalize---------- */
+@import url(../normalize/normalize.css);
+
+/* ------------fonts----------- */
+@import url(../fonts/fonts.css);
+
+/* ------------root------------ */
+@import url(../blocks/root/root.css);
+
+/* -----------content--------- */
+@import url(../blocks/content/content.css);
+@import url(../blocks/content/__author/content__author.css);
+@import url(../blocks/content/__grid/content__grid.css);
+@import url(../blocks/content/__image/content__image.css);
+@import url(../blocks/content/__quote/content__quote.css);
+@import url(../blocks/content/__text/content__text.css);
+@import url(../blocks/content/__title/content__title.css);
+
+/* ------------cover---------- */
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__button/cover__button.css);
+@import url(../blocks/cover/__filter/cover__filter.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/cover/__text/cover__text.css);
+@import url(../blocks/cover/__title/cover__title.css);
+
+/* -----------footer---------- */
+@import url(../blocks/footer/footer.css);
+
+/* -----------header---------- */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__image/header__image.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__title/header__title.css);
+
+/* ------------page----------- */
+@import url(../blocks/page/page.css);
+
+/* -----------places---------- */
+@import url(../blocks/places/places.css);
+@import url(../blocks/places/__artist/places__artist.css);
+@import url(../blocks/places/__button/places__button.css);
+@import url(../blocks/places/__content/places__content.css);
+@import url(../blocks/places/__history/places__history.css);
+@import url(../blocks/places/__image/palces__image.css);
+@import url(../blocks/places/__name/places__name.css);
+@import url(../blocks/places/__text/places__text.css);
+@import url(../blocks/places/__title/places__title.css);

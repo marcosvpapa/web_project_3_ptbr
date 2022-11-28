@@ -1,0 +1,29 @@
+.content__author {
+  text-align: right;
+  color: #ffffff;
+  max-width: 56.25%;
+  margin-left: 148px;
+  margin-top: 0;
+  margin-bottom: 32px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.41;
+}
+
+@media screen and (max-width: 1024px) {
+  .content__author {
+    margin-right: 24px;
+    margin-left: auto;
+    margin-top: 0;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .content__author {
+    margin-top: 10px;
+    margin-right: 16px;
+    max-width: 90%;
+    margin-bottom: 18px;
+  }
+}

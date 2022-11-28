@@ -1,0 +1,35 @@
+.places__button {
+  background-color: #0278fe;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.22;
+  padding: 13px 20px;
+  border-radius: 4px;
+  height: 48px;
+  word-spacing: -1px;
+  grid-area: button;
+  width: 355px;
+  box-sizing: border-box;
+}
+
+.places__button:hover {
+  background-color: #0063d2;
+}
+
+@media screen and (max-width: 1024px) {
+  .places__button {
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .places__button {
+    width: auto;
+    font-size: 14px;
+    line-height: 1.21;
+    margin: 8px auto 0px;
+  }
+}

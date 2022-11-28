@@ -1,0 +1,24 @@
+.content__quote {
+  max-width: 56.41%;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.41;
+  color: #ffffff;
+  margin-left: 148px;
+  margin-bottom: auto;
+}
+
+@media screen and (max-width: 1024px) {
+  .content__quote {
+    margin: 40px auto 0;
+    max-width: 93.75%;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .content__quote {
+    max-width: 90%;
+    margin: 9px auto 0;
+  }
+}

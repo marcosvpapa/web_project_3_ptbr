@@ -1,0 +1,25 @@
+.content__text {
+  max-width: 56.25%;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 163%;
+  color: #ffffff;
+  margin: 0 auto 92px 148px;
+}
+
+@media screen and (max-width: 1024px) {
+  .content__text {
+    margin: 0 auto 64px;
+    max-width: 93.75%;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .content__text {
+    height: 442px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: 38px;
+  }
+}

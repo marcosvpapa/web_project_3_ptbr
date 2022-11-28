@@ -1,0 +1,29 @@
+.content__title {
+  width: 100%;
+  max-width: 79.45%;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 54px;
+  line-height: 1.07;
+  margin: 92px auto 40px;
+  text-align: left;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 1024px) {
+  .content__title {
+    max-width: 93.75%;
+    margin-top: 88px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .content__title {
+    width: 100%;
+    max-width: 90%;
+    font-size: 32px;
+    line-height: 1.09;
+    word-spacing: 0px;
+    margin: 44px auto 0;
+  }
+}

@@ -1,0 +1,35 @@
+.places {
+  display: grid;
+  grid-template-columns: 0.97fr 1.03fr;
+  grid-template-areas:
+    "title content"
+    "image text"
+    "button text"
+    ". text";
+  grid-gap: 0 3.125%;
+  margin: auto;
+  width: 100%;
+  max-width: 76.87%;
+}
+
+@media screen and (max-width: 1024px) {
+  .places {
+    max-width: 95.44%;
+    grid-gap: 0 3.64%;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .places {
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: auto;
+    grid-template-areas:
+      "title"
+      "content"
+      "image"
+      "text"
+      "button";
+    width: 100%;
+  }
+}
