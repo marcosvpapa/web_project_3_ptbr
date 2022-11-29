@@ -16,6 +16,7 @@
   .places {
     max-width: 95.44%;
     grid-gap: 0 3.64%;
+    margin-bottom: 50px;
   }
 }
 
@@ -31,5 +32,6 @@
       "text"
       "button";
     width: 100%;
+    margin-bottom: 0;
   }
 }
