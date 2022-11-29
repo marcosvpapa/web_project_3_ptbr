@@ -7,3 +7,15 @@
   margin-top: 0px;
   margin-bottom: 48px;
 }
+
+@media screen and (max-width: 1024px) {
+  .places__name {
+    margin-bottom: 46px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .places__name {
+    margin-bottom: 0;
+  }
+}
