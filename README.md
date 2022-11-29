@@ -7,7 +7,7 @@
 Projeto em desenvolvimento para a disciplina Web design adaptativo e trabalhos com layouts no curso da Practicum.
 Seguimos o layout que nos foi fornecido no figma.
 A página web for feita para poder abrir em todo tipo de tela.
-Nesse projeto 3, foram desenvolvidas em CSS algumas técnicas como inserção de layout de grades (grid), unidade de medidas (%, Fr, em e rem) e aprofundamento maios no git.
+Nesse projeto 3, foram desenvolvidas em CSS algumas técnicas como inserção de layout de grades (grid), unidade de medidas (%, Fr, em e rem) e aprofundamento maior no git.
 O projeto ficou com esse design. Clique no link e aproveite.
 
 ### Projeto 3
